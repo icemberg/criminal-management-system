@@ -1,4 +1,4 @@
-# Crime-Reporting-System
+# Crime-Management-System
 
 The Online crime reporting system which is a Web application designed in PHP  which aims to provide crime management solutions such as filing of FIR  and checking its status accessible to everyone
 
